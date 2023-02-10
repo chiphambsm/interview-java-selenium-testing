@@ -11,6 +11,8 @@ Question 1: How to create a constructor in java?
     A static constructor, on the other hand, is used to initialize the class itself.
     It is called once when the class is loaded into memory and is commonly used to perform one-time setup tasks for the class,
     such as initializing static fields or creating resources that are shared by all instances of the class.
+    
+    `https://github.com/chipham-qa/interview-java-selenium-testing/blob/main/2023-02-10_21-06-24.png`
 
  Question 3: What is the different between method overloading and constructor overloading?
   -> Answer:
