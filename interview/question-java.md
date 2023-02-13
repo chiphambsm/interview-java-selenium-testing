@@ -8,11 +8,9 @@ Question 1: How to create a constructor in java?
     A non-static constructor is used to create instances of an object and initialize their state.
     It is automatically called when you create an object of the class using the new operator.
 
-    A static constructor, on the other hand, is used to initialize the class itself.
+ -> A static constructor, on the other hand, is used to initialize the class itself.
     It is called once when the class is loaded into memory and is commonly used to perform one-time setup tasks for the class,
     such as initializing static fields or creating resources that are shared by all instances of the class.
-    
-    `![static constructor](https://github.com/chipham-qa/interview-java-selenium-testing/blob/main/2023-02-10_21-06-24.png)`
 
  Question 3: What is the different between method overloading and constructor overloading?
   -> Answer:
